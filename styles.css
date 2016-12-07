@@ -1,9 +1,8 @@
 nav {
-  float: center;
   background-color: #76ff03;
   position: fixed;
   top: 0;
-  left: 10;
+  left: 0;
   width: 100%;
 }
 nav ul {
