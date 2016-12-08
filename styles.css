@@ -27,3 +27,11 @@ li a {
   text-decoration: none;
   font-family: "Courier New", Courier, monospace
 }
+
+section {
+  max-height: 800px;
+  max-width: 800px;
+  text-align: justify;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
