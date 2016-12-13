@@ -1,7 +1,7 @@
 nav {
   background-color: rgba(156,217,107,0.90);
   position: fixed;
-  top: 100;
+  top: 0;
   left: 0;
   width: 100%;
 }
