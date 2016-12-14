@@ -1,15 +1,9 @@
-nav {
-  background-color: rgba(156,217,107,0.90);
+/*
+
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-}
-
-nav ul {
-  margin: 30;
-  padding: 30;
-  list-style-type: none;
 }
 
 li {
@@ -23,6 +17,11 @@ li a {
   color: #666;
   padding: 20px 16px;
   text-decoration: none;
+}
+*/
+.navbar-default {
+  background-color: green;
+
 }
 
 section {
